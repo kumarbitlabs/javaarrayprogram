@@ -1,4 +1,4 @@
-//program to find sum and average of array elements
+//program to find insertion and deletion operation on arrays
 import java.util.Scanner;
 
 public class Main3 
